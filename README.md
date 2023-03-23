@@ -11,4 +11,4 @@ utilizamos la función randint del módulo random para generar el número oculto
 
 Si el usuario adivina el número oculto, mostramos un mensaje de felicitación y el número de intentos que se han necesitado para adivinarlo. Si el usuario no adivina el número oculto, preguntamos si desea seguir jugando y, si no, mostramos el número oculto y un mensaje de despedida.
 
-![This is an image]()
+![This is an image](https://github.com/aplprogramacion/Adivina-Numero-Oculto/blob/master/Captura%20de%20pantalla%20(49).png)
